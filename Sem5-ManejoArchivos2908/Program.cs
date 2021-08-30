@@ -161,7 +161,44 @@ namespace Sem5_ManejoArchivos2908
 
         }
 
+        private static void updateData()
+        {
+            string name;
+            Console.Write("Escriba el nombre del paciente a actualizar: ");
+            name = Console.ReadLine();
 
+            if (readF(name) == true)
+            {
+                Console.WriteLine("existe");
+            }
+            else
+            {
+                Console.WriteLine("no existe");
+            }
+
+
+        }
+
+        private static void deleteData()
+        {
+            //solicitar el elemnto a eliminar
+            Console.Write("Escriba el nombre del estudiante a eliminar: ");
+            var name = Console.ReadLine();
+
+            //realizar la busqueda
+            if (readF(name)) //llamado al metodo search(), utilizado para realizar una busqueda
+                             //dentro del archivo
+            {
+
+            }
+            else
+            {
+                Console.WriteLine("El registro no se encontro!");
+            }
+
+
+
+        }
 
     }
 }
