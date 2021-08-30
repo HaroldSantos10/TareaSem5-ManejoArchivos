@@ -123,9 +123,45 @@ namespace Sem5_ManejoArchivos2908
 
         }
 
+        private static bool readF(string name)
+        {
 
 
-        
+            //declarar el diccionario
+            string[] listData = new string[6];
+
+            //uso del StreamReader para leer el archivo
+            using (var reader = new StreamReader(getPath()))
+            {
+                //variable para almacenar el contenido del archivo
+                string lines;
+
+                while ((lines = reader.ReadLine()) != null) //mientras no se encuentre una linea vacia se ejecuta el ciclo
+                {
+                    string[] keyvalue = lines.Split(';');
+                    if (keyvalue.Length == 6)
+                    {
+                        listData[0] = keyvalue[0];
+                        listData[1] = keyvalue[1];
+                        listData[2] = keyvalue[2];
+                        listData[3] = keyvalue[3];
+                        listData[4] = keyvalue[4];
+                        listData[5] = keyvalue[5];
+                    }
+                }
+
+            }
+
+            if (!listData.Contains(name))
+            {
+                return false;
+            }
+
+            return true;
+
+        }
+
+
 
     }
 }

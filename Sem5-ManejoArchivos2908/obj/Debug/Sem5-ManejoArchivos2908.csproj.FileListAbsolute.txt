@@ -4,3 +4,10 @@ C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\Sem5-ManejoArchivos2908\Se
 C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\Sem5-ManejoArchivos2908\Sem5-ManejoArchivos2908\obj\Debug\Sem5-ManejoArchivos2908.csproj.CoreCompileInputs.cache
 C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\Sem5-ManejoArchivos2908\Sem5-ManejoArchivos2908\obj\Debug\Sem5-ManejoArchivos2908.exe
 C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\Sem5-ManejoArchivos2908\Sem5-ManejoArchivos2908\obj\Debug\Sem5-ManejoArchivos2908.pdb
+C:\Users\REYES\Desktop\Tarea\TareaSem5-ManejoArchivos\Sem5-ManejoArchivos2908\bin\Debug\Sem5-ManejoArchivos2908.exe.config
+C:\Users\REYES\Desktop\Tarea\TareaSem5-ManejoArchivos\Sem5-ManejoArchivos2908\bin\Debug\Sem5-ManejoArchivos2908.exe
+C:\Users\REYES\Desktop\Tarea\TareaSem5-ManejoArchivos\Sem5-ManejoArchivos2908\bin\Debug\Sem5-ManejoArchivos2908.pdb
+C:\Users\REYES\Desktop\Tarea\TareaSem5-ManejoArchivos\Sem5-ManejoArchivos2908\obj\Debug\Sem5-ManejoArchivos2908.csproj.AssemblyReference.cache
+C:\Users\REYES\Desktop\Tarea\TareaSem5-ManejoArchivos\Sem5-ManejoArchivos2908\obj\Debug\Sem5-ManejoArchivos2908.csproj.CoreCompileInputs.cache
+C:\Users\REYES\Desktop\Tarea\TareaSem5-ManejoArchivos\Sem5-ManejoArchivos2908\obj\Debug\Sem5-ManejoArchivos2908.exe
+C:\Users\REYES\Desktop\Tarea\TareaSem5-ManejoArchivos\Sem5-ManejoArchivos2908\obj\Debug\Sem5-ManejoArchivos2908.pdb
