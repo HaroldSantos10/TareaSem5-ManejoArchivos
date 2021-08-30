@@ -1,0 +1,6 @@
+Harold; 19; Masculino; O; No; Moncagua;
+------------------
+Meylin; 18; Femenino; A; No; Corinto;
+------------------
+Fátima; 18; Femenina; B; No; Uluazapa;
+------------------

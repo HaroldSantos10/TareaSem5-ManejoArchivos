@@ -1,0 +1,6 @@
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\Sem5-ManejoArchivos2908\Sem5-ManejoArchivos2908\bin\Debug\Sem5-ManejoArchivos2908.exe.config
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\Sem5-ManejoArchivos2908\Sem5-ManejoArchivos2908\bin\Debug\Sem5-ManejoArchivos2908.exe
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\Sem5-ManejoArchivos2908\Sem5-ManejoArchivos2908\bin\Debug\Sem5-ManejoArchivos2908.pdb
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\Sem5-ManejoArchivos2908\Sem5-ManejoArchivos2908\obj\Debug\Sem5-ManejoArchivos2908.csproj.CoreCompileInputs.cache
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\Sem5-ManejoArchivos2908\Sem5-ManejoArchivos2908\obj\Debug\Sem5-ManejoArchivos2908.exe
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\Sem5-ManejoArchivos2908\Sem5-ManejoArchivos2908\obj\Debug\Sem5-ManejoArchivos2908.pdb
